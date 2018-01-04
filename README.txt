@@ -1,4 +1,5 @@
 Author: Seth George
+This is the project I did to learn C. It's fairly old and I've improved since then.
 
 The README is a brief explanation to the following programs:
 sndinfo.c
